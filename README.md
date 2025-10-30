@@ -1,2 +1,2 @@
-# python-basics-week
-My Python practice programs
+# python-basics 
+practice programs
